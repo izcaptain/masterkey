@@ -1,0 +1,67 @@
+h1, h2, h3, a{
+    color: peachpuff;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.topic {
+    background-color: rgba(85, 42, 2, 0.11)
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    margin: 6px;
+}
+.list_item {
+    display: inline;
+    margin-top: 5px;
+    
+}
+
+.pic {
+    border-radius: 30px;
+    border: 8px double rgb(165, 81, 42);
+    margin: 2px;
+    padding: 2px;
+    background-size: cover;
+}
+
+.back {
+    background-color: rgb(27, 27, 27);
+
+}
+
+.btn {
+    background-color: rgb(165, 81, 42);
+    margin-top: 30px;
+
+}
+
+.pictext {
+    display: flex;
+    justify-content: center;
+    color: peachpuff;
+    font-family: 'Berkshire Swash', cursive;
+    display: inline;
+}
+
+.myself {
+    border-radius: 30px;
+    border: 8px double rgb(165, 81, 42);
+    width: 30%;
+    height: 30%;
+    margin-left: 15px;
+}
+
+.wer {
+    margin-left: 95px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.metext {
+    margin-left: 100px;
+    margin-top: 20px;
+    color: rgba(255, 188, 130, 0.562);
+}
