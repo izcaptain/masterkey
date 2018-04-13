@@ -3,8 +3,12 @@ h1, h2, h3, a{
     font-family: 'Berkshire Swash', cursive;
 }
 
+p, li {
+    color: rgba(255, 188, 130, 0.562);
+}
+
 .topic {
-    background-color: rgba(85, 42, 2, 0.11)
+    background-color: rgba(85, 42, 2, 0.11);
 
 }
 
@@ -44,6 +48,7 @@ h1, h2, h3, a{
     color: peachpuff;
     font-family: 'Berkshire Swash', cursive;
     display: inline;
+    margin-left: 20px;
 }
 
 .myself {
@@ -57,11 +62,19 @@ h1, h2, h3, a{
 .wer {
     margin-left: 95px;
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .metext {
     margin-left: 100px;
     margin-top: 20px;
-    color: rgba(255, 188, 130, 0.562);
+    
 }
+
+.anyskills {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 70px; 
+}
+
+
