@@ -33,6 +33,7 @@ p, li {
 
 .back {
     background-color: rgb(27, 27, 27);
+    
 
 }
 
@@ -75,7 +76,11 @@ p, li {
     margin-top: 30px;
     margin-bottom: 40px;
     margin-left: 70px; 
+
 }
 
-
-
+.impresS {
+    margin-top: 30px;
+    margin-left: 65px;
+    margin-bottom: 40px;
+}
