@@ -20,7 +20,7 @@ p, li {
     margin-bottom: 150px;
 }
 .list_item {
-    display: inline;
+    display:inline;
     margin-top: 5px;
     
 }
@@ -70,12 +70,12 @@ p, li {
 
 .metext {
     margin-left: 100px;
-    xmargin-top: -50px;
+
     
 }
 
 .anyskills {
-    margin-top: 250px;
+    margin-top: 150px;
     margin-bottom: 20px;
     margin-left: 70px; 
 }
