@@ -15,9 +15,7 @@ p, li {
 .menu {
     display: flex;
     justify-content: space-around;
-    margin: 6px;
-    margin-top: 10px;
-    margin-bottom: 150px;
+    margin: 10px, 6px, 150px, 6px;
 }
 .list_item {
     display: inline;
@@ -80,9 +78,13 @@ p, li {
     margin-left: 70px; 
 }
 
-.impresS {
+.impress {
     margin-top: 150px;
     margin-left: 60px;
     margin-bottom: 40px;
+}
+
+.neu {
+    color:black;
 }
 
