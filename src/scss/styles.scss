@@ -1,4 +1,5 @@
 @import'../../node_modules/bootstrap/scss/bootstrap.scss';
+
 h1, h2, h3, a{
     color: peachpuff;
     font-family: 'Berkshire Swash', cursive;
@@ -10,7 +11,7 @@ p, li {
 
 .topic {
     background-color: rgba(85, 42, 2, 0.11);
-    
+
 }
 
 .menu {
@@ -20,8 +21,9 @@ p, li {
 }
 .list_item {
     display: inline;
+    // Das margin-top wird vom Browser ignoriert, weil du auch display: inline gesetzt hast.
     margin-top: 5px;
-    
+
 }
 
 .pic {
@@ -34,7 +36,7 @@ p, li {
 
 .back {
     background-color: rgb(27, 27, 27);
-   
+
 }
 
 .btn {
@@ -69,14 +71,12 @@ p, li {
 
 .metext {
     margin-left: 100px;
-
-    
 }
 
 .anyskills {
     margin-top: 100px;
     margin-bottom: 20px;
-    margin-left: 70px; 
+    margin-left: 70px;
 }
 
 .impress {
